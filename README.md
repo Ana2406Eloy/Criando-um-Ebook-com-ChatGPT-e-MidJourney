@@ -7,7 +7,8 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-Link do E-book: E-book.pdf
+[Link do E-book](https://github.com/Ana2406Eloy/Criando-um-Ebook-com-ChatGPT-e-MidJourney/blob/be9847aa959b6a28061aa914392b17e7ec51871d/E-book.pdf)
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
